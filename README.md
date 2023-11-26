@@ -11,6 +11,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - If you have a project in mind or need help with something I might be interested in, feel free to reach out. I'm always looking for new opportunities to collaborate and learn.
 
 ## Contact Me
-- 📫 How to reach me: Email: tsubash849@gmail.com, LinkedIn: [jidaan Dumjhaan] (https://www.linkedin.com/in/jidaan-dumjhaan-003513189/)
+- 📫 How to reach me: Email: tsubash849@gmail.com, LinkedIn: (https://www.linkedin.com/in/jidaan-dumjhaan-003513189/)
 
 
